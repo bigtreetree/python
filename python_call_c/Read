@@ -1,0 +1,3 @@
+python 调用c的几种方式
+1:通过python中的ctypes模块调用c的so文件,参考:www.ibm.com/developerworks/cn/linux/l-cn-pythonandc/
+www.cricode.com/359.html
